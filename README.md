@@ -47,7 +47,6 @@
 ## 📫 Contact
 - **Email**: [이메일 주소를 입력해주세요]
 - **GitHub**: https://github.com/inko1122
-- **Blog**: [블로그 주소가 있다면 입력해주세요]
 
 <br>
 
